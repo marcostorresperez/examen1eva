@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen_1Trimestre_AndreuFurioBenavent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tasks">Tasks</string>
+    <string name="completedTasks">Done tasks</string>
+    <string name="name">Name</string>
+    <string name="desc">Task description</string>
+    <string name="isImportant">Is important</string>
+    <string name="btnAdd">Add</string>
+</resources>
